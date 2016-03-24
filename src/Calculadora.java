@@ -13,5 +13,9 @@ public class Calculadora {
 		return b - a;
 	}
 	
+	public Integer dividir(Integer a, Integer b){
+		return a / b;
+	}
+	
 
 }
